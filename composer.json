@@ -1,0 +1,17 @@
+{
+    "name": "davit37/php-mvc",
+    "description": "belajar php mvc",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Davit37\\PhpMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "davit hermansyah",
+            "email": "davithermansyah37@gmail.com"
+        }
+    ],
+    "require": {}
+}
